@@ -1,37 +1,45 @@
-# 👋 Hi, I'm Rexx Alfaro
-
-I'm an **aspiring fullstack developer** who enjoys building web apps and adding features that make them more useful, engaging, and enjoyable to use.  
-I love working across the stack — from crafting dynamic React interfaces to designing efficient Express APIs and managing data with PostgreSQL.
-
+# Hello!
 ---
 
-### 🛠️ Tech Stack
-**Languages:** JavaScript  
-**Frameworks / Libraries:** React, Node.js, Express, EJS, PostgreSQL  
-**Tools:** Git  
+I'm Rexx, a full-Stack Developer specializing in React, Node.js, PostgreSQL, and modern web technologies.
 
+## Featured Projects
 ---
 
-### 🚀 Featured Projects
+- [SketchPals](https://github.com/x3rD1/SketchPals): A real-time collaborative canvas application demonstrating server-authoritative synchronization, operation-based persistence, authentication, role-based permissions, and real-time collaboration using React, TypeScript, Socket.IO, Prisma, PostgreSQL, Docker, and GitHub Actions.
+- [Memeo](https://github.com/x3rD1/odin-book): A full-stack social media application for sharing memes featuring RESTful APIs, authentication, media uploads, cursor-based pagination, relational database design, and real-time notifications using React, Node.js, Express, Prisma, PostgreSQL, and Socket.IO.
 
-#### 🛒 [shopping-cart](https://github.com/x3rd1/shopping-cart)
-A React application that implements dynamic routing with React Router, fetching product data from an external API. Features reusable components, modular architecture, and responsive design to ensure a clean and maintainable shopping experience.
-
-#### 📦 [Animeventory](https://github.com/x3rd1/inventory-app)
-An Express app that handles GET and POST requests using PostgreSQL, routers, controllers, and EJS templates for rendering dynamic pages.
-Focused on understanding Routing structure and database integration.
-
+## Technical Skills
 ---
 
-### 🌱 Currently Learning
-- Authentication with **Passport.js**
+### Languages
+- TypeScript
+- JavaScript
+- SQL
 
-### 🎯 Goals
-- Build more projects that improve my development speed and deepen my fullstack knowledge.
+### Frontend
+- React
+- TanStack Query
+- HTML
+- CSS
 
+### Backend
+- Node.js
+- Express
+- REST APIs
+- Socket.IO
+- Prisma ORM
+
+### Database
+- PostgreSQL
+
+### Infrastructure
+- Docker
+- Nginx
+- GitHub Actions
+- Linux
+- VPS Deployment
+
+## Contact Me
 ---
-
-### 📫 Contact
-📧 **Email:** [rexxalfaro@proton.me](mailto:rexxalfaro@proton.me)  
-🌐 **Portfolio:** coming soon  
-🐙 **GitHub:** [x3rd1](https://github.com/x3rd1)
+You can reach me at [rexxalfaro@proton.me](mailto:rexxalfaro@proton.me)
